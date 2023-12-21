@@ -2,9 +2,4 @@ com\keyin\airline\AirlineRestApi.class
 com\keyin\airport\AirportRestApi.class
 com\keyin\gates\Gates.class
 com\keyin\CorsConfig.class
-com\keyin\aircraft\Aircraft.class
-com\keyin\RestServiceApplication.class
-com\keyin\airport\Airport.class
-com\keyin\airline\Airline.class
-com\keyin\aircraft\AircraftRestApi.class
-com\keyin\gates\GatesRestApi.class
+
